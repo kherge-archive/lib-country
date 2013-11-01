@@ -174,12 +174,24 @@ class Loader implements LoaderInterface
      */
     private function createCountry(DOMElement $element)
     {
+        if ($element->hasAttribute('common_name')) {
+            $short = $element->getAttribute('common_name');
+        } else {
+            $short = $element->getAttribute('name');
+        }
+
+        if ($element->hasAttribute('official_name')) {
+            $long = $element->getAttribute('official_name');
+        } else {
+            $long = null;
+        }
+
         return new Country(
             $element->getAttribute('alpha_2_code'),
             $element->getAttribute('alpha_3_code'),
-            $element->getAttribute('official_name'),
+            $long,
             $element->getAttribute('numeric_code'),
-            $element->getAttribute('name')
+            $short
         );
     }
 
