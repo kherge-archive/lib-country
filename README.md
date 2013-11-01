@@ -1,5 +1,5 @@
-Test
-====
+Country
+=======
 
 [![Build Status][]](https://travis-ci.org/phine/lib-country)
 [![Coverage Status][]](https://coveralls.io/r/phine/lib-country)
