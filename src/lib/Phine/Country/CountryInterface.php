@@ -26,7 +26,8 @@ interface CountryInterface
     /**
      * Returns the ISO 3166-1 English long name.
      *
-     * @return string The long name.
+     * @return string If the long name is available, it is returned. If the
+     *                long name is not available, nothing (`null`) is returned.
      */
     public function getLongName();
 
