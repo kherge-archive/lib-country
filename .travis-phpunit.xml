@@ -16,7 +16,7 @@
             <string>Phine\Country</string>
           </element>
           <element key="repo_token">
-            <string></string>
+            <string>g5A6hOoI6MX3GG67dBZhFmhsLEKBhabQx</string>
           </element>
           <element key="target_url">
             <string>https://coveralls.io/api/v1/jobs</string>
