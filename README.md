@@ -12,7 +12,7 @@ Usage
 -----
 
 ```php
-use Herrera\Country\Loader\Loader;
+use Phine\Country\Loader\Loader;
 
 $loader = new Loader();
 
