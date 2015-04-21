@@ -261,7 +261,7 @@ Source: <http://www.iso.org/iso/country_codes>
 	<iso_3166_entry alpha_2_code="SY" alpha_3_code="SYR" numeric_code="760" name="Syrian Arab Republic"/>
 	<iso_3166_entry alpha_2_code="TW" alpha_3_code="TWN" numeric_code="158" common_name="Taiwan" name="Taiwan, Province of China" official_name="Taiwan, Province of China"/>
 	<iso_3166_entry alpha_2_code="TJ" alpha_3_code="TJK" numeric_code="762" name="Tajikistan" official_name="Republic of Tajikistan"/>
-	<iso_3166_entry alpha_2_code="TZ" alpha_3_code="TZA" numeric_code="834" name="Tanzania, United Republic of" official_name="United Republic of Tanzania"/>
+	<iso_3166_entry alpha_2_code="TZ" alpha_3_code="TZA" numeric_code="834" common_name="Tanzania" name="Tanzania, United Republic of" official_name="United Republic of Tanzania"/>
 	<iso_3166_entry alpha_2_code="TH" alpha_3_code="THA" numeric_code="764" name="Thailand" official_name="Kingdom of Thailand"/>
 	<iso_3166_entry alpha_2_code="TL" alpha_3_code="TLS" numeric_code="626" name="Timor-Leste" official_name="Democratic Republic of Timor-Leste"/>
 	<iso_3166_entry alpha_2_code="TG" alpha_3_code="TGO" numeric_code="768" name="Togo" official_name="Togolese Republic"/>
