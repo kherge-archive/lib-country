@@ -159,6 +159,7 @@ Source: <http://www.iso.org/iso/country_codes>
 	<iso_3166_entry alpha_2_code="KZ" alpha_3_code="KAZ" numeric_code="398" name="Kazakhstan" official_name="Republic of Kazakhstan"/>
 	<iso_3166_entry alpha_2_code="KE" alpha_3_code="KEN" numeric_code="404" name="Kenya" official_name="Republic of Kenya"/>
 	<iso_3166_entry alpha_2_code="KI" alpha_3_code="KIR" numeric_code="296" name="Kiribati" official_name="Republic of Kiribati"/>
+	<iso_3166_entry alpha_2_code="XK" alpha_3_code="UNK" numeric_code="999" name="Kosovo" official_name="Republic of Kosovo"/>
 	<iso_3166_entry alpha_2_code="KP" alpha_3_code="PRK" numeric_code="408" name="Korea, Democratic People's Republic of" official_name="Democratic People's Republic of Korea"/>
 	<iso_3166_entry alpha_2_code="KR" alpha_3_code="KOR" numeric_code="410" name="Korea, Republic of"/>
 	<iso_3166_entry alpha_2_code="KW" alpha_3_code="KWT" numeric_code="414" name="Kuwait" official_name="State of Kuwait"/>
